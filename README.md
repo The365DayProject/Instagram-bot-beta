@@ -33,3 +33,8 @@ Python modules needed:
 -os
 
 As I mention in the beggining, this is my very first attempt at such an application and hence it is more than certain that it will have mistakes. Please if you have the time and knoweledge required, I would greatly appreciate all comments and/or suggestions.
+
+Useful links:
+https://chromedriver.chromium.org/
+https://www.python.org/downloads/
+https://docs.python.org/3/installing/index.html
