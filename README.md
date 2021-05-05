@@ -12,6 +12,10 @@ The ui offers the following options to the user:
 -Enter the list of comments.
 -Choose the commenting frequency.
 
+How to run:
+-Open cmd and go to the folder of the project
+-Run the main.py file (python main.py or py main.py or py -m main.py)
+
 How to comment:
 -Place your comment in the corresponding box in the form (@jlo @cristiano @leomessi) where of course in your case you can @[add name of user].
 -Click the 'Add comment' button.
